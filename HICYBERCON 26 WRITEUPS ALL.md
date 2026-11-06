@@ -1,9 +1,6 @@
 # HiCyberCon CTF (hiCTF) — Tổng hợp Write-up
 
-> **Sự kiện:** HiCyberCon / hiCTF · **Ngày giải:** 2026-10-31 · **Kết quả: 7 challenge đã giải** (4 medium, 3 hard — toàn bộ mảng Reverse Engineering)
-
-> File này tổng hợp nguyên văn 7 write-up từ các thư mục con của `/home/kali/ctf/hicybercon/`. Mỗi write-up giữ đầy đủ: phân tích, code solver hoàn chỉnh, output thực tế và flag.
-
+> **Sự kiện:** HiCyberCon / hiCTF 
 
 ## Tổng quan
 
